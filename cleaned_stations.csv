@@ -1,0 +1,5 @@
+station,location,land-use type
+STN001,North Zone,Residential
+STN002,Unknown,Commercial
+STN003,South Zone,Residential
+STN004,Industrial Zone,Industrial
